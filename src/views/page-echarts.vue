@@ -3,14 +3,14 @@
     <div class="bar">
       <barEcharts />
       <barEcharts1 />
+        <pieEcharts />
     </div>
     <div class="pie">
-      <pieEcharts />
+       <lineEchart />
+      <lineEchart1 />
       <pieEcharts1 />
     </div>
     <div class="line">
-      <lineEchart />
-      <lineEchart1 />
     </div>
   </div>
 </template>
